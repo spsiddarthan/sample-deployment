@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/spsiddarthan/sample-deployment#readme",
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "gulp-uglify": "^2.0.0",
+    "sleep": "^5.1.0"
   }
 }
